@@ -720,7 +720,7 @@ img {
 }
 
 .wpo-page-title {
-  background: url(../images/page-title.jpg) no-repeat center top/cover;
+  background: url(../images/page-title.png) no-repeat center top/cover;
   min-height: 300px;
   position: relative;
   display: flex;
@@ -1780,7 +1780,7 @@ img {
 .wpo-site-header .navigation .navbar-header .logo {
   font-size: 45px;
   font-family: "Gilda Display", serif;
-  color: #a3888c;
+  color: #000000;
 }
 @media (max-width: 991px) {
   .wpo-site-header .navigation .navbar-header .logo {
@@ -2792,12 +2792,12 @@ img {
 
 @media (max-width: 440px) {
   .wpo-site-header .navbar-header .navbar-brand img {
-    max-width: 170px;
+    max-width: 140px;
   }
 }
 @media (max-width: 370px) {
   .wpo-site-header .navbar-header .navbar-brand img {
-    max-width: 140px;
+    max-width: 120px;
   }
 }
 @media (max-width: 1700px) {

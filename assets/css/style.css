@@ -720,7 +720,7 @@ img {
 }
 
 .wpo-page-title {
-  background: url(../images/page-title.jpg) no-repeat center top/cover;
+  background: url(../images/page-title.png) no-repeat center top/cover;
   min-height: 300px;
   position: relative;
   display: flex;
